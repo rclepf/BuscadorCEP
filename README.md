@@ -2,15 +2,13 @@
 
 ## Descrição do Projeto
 
-Buscador de CEP utilizando a API "https://viacep.com.br/"
+Aplicação web utilizando Laravel , com um banco de dados MySQL.
+
+CRUD para gerenciamento de eventos com gestão de um usuário logado na plataforma. 
 
 ## Tecnologias utilizadas
 
 HTML </br>
 CSS </br>
-JavaScript </br>
-REACT.js </br>
+LARAVEL </br>
 
-## Planos futuros
-1 - Acrescentar informações da cidade </br>
-2 - Alterar UI da página </br>
